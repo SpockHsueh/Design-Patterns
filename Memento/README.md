@@ -14,7 +14,7 @@
 
 
 ### Originator
-Conform Codable, Swift 會自動將 object encoder or decoder ，型態也會自動依照外部
+通常會 Conform Codable, 讓 Swift 自動將 object encoder or decoder ，型態也會自動依照外部來改變，通常代表物件目前的狀態，分數 (要被儲存到 Memento 的資料格式)
 
 ![](https://i.imgur.com/lGFbZHK.png)
 
